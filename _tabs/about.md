@@ -31,6 +31,8 @@ L. A. Torres-Romero, L. E. González-Jiménez, and R. Ruiz-Cruz, “Longitudinal
 
 L. A. Torres-Romero, L. E. González-Jiménez, and R. Ruiz-Cruz, “Lateral vehicle dynamics and controllers design,” *Internal Report PhDEngScITESO-19-21-R*, ITESO, Tlaquepaque, Mexico, Dec. 2019.
 
+L. A. Torres-Romero, L. E. González-Jiménez, and R. Ruiz-Cruz, “Introduction to physical automotive models and modern controllers,” *Internal Report PhDEngScITESO-19-11-R*, ITESO, Tlaquepaque, Mexico, Aug. 2019.
+
 L. A. Torres-Romero, L. E. González-Jiménez, and R. Ruiz-Cruz, “A brief review on industrial standards and procedures for safety related automotive systems,” *Internal Report PhDEngScITESO-18-35-R*, ITESO, Tlaquepaque, Mexico, Dec. 2018.
 
 ## Publications in journals
