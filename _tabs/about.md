@@ -3,6 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
+A little about me:
 
 I am a passionate technologist with a deep love for innovation and problem-solving. Since graduating with a degree in Communications and Electronics, I have been captivated by the intersection of electrical engineering and software development. Since 2012, I have dedicated my career to automotive embedded systems, designing and implementing cutting-edge technologies for vehicles.
 
