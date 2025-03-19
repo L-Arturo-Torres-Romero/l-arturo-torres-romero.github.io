@@ -11,7 +11,7 @@ media_subpath: 2025-01-27-vehicle-dynamics-model
 ## Introduction  
 Vehicle dynamics and control is a fascinating field that blends physics, engineering, and technology to understand how vehicles move and respond to forces. While it can seem complex at first, breaking it down into manageable concepts is key to advancing modern transportation, especially in the development of electric and autonomous vehicles. To make this learning process more accessible, I’ve built a MATLAB/Simulink model that simulates both longitudinal and lateral vehicle dynamics. This tool is designed to help students, researchers, and engineers experiment with control strategies in a flexible and modular environment.  
 
- <img src="/assets/img/{{ page.media_subpath }}/lonlat2.png" alt="Vehicle Dynamics" width="100">
+ <img src="{{ page.media_subpath }}/lonlat2.png" alt="Vehicle Dynamics" width="100">
 
 ## What is the Vehicle Dynamics Simulation Model?  
 This simulation model is a practical tool for exploring and analyzing vehicle behavior under different conditions. It’s particularly useful for those interested in sustainable transportation, as it incorporates electric motors as primary actuators. Whether you’re a student learning the basics or a researcher testing advanced control strategies, this model provides a hands-on way to engage with vehicle dynamics.  
