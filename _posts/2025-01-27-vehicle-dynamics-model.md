@@ -3,7 +3,7 @@ title: Vehicle Dynamics and Control Simulation Playground
 date: 2025-01-27 12:00:00
 categories: [dynamics,simulation]
 tags: [dynamics,control,vehicle,motor]
-media_subpath: 2025-01-27-vehicle-dynamics-model
+media_subpath: _site/posts/2025-01-27-vehicle-dynamics-model
 ---
 
 # Vehicle Dynamics and Control Simulation Playground  
