@@ -14,7 +14,7 @@ Vehicle dynamics and control is a fascinating field that blends physics, enginee
 ## What is the Vehicle Dynamics Simulation Model?  
 This simulation model is a practical tool for exploring and analyzing vehicle behavior under different conditions. It’s particularly useful for those interested in sustainable transportation, as it incorporates electric motors as primary actuators. Whether you’re a student learning the basics or a researcher testing advanced control strategies, this model provides a hands-on way to engage with vehicle dynamics.  
 
-
+<img src="./2025-01-27-vehicle-dynamics-model/LateralController3D.gif" alt="3D visualization of the lateral controller." width="100%">
 
 ### Key Features of the Model  
 - **Longitudinal Dynamics:** Simulates acceleration, braking, and traction forces.  
