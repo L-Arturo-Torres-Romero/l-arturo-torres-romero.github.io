@@ -6,8 +6,6 @@ tags: [dynamics,control,vehicle,motor]
 
 ---
 
-# Vehicle Dynamics and Control Simulation Playground  
-
 ## Introduction  
 Vehicle dynamics and control is a fascinating field that blends physics, engineering, and technology to understand how vehicles move and respond to forces. While it can seem complex at first, breaking it down into manageable concepts is key to advancing modern transportation, especially in the development of electric and autonomous vehicles. To make this learning process more accessible, I’ve built a MATLAB/Simulink model that simulates both longitudinal and lateral vehicle dynamics. This tool is designed to help students, researchers, and engineers experiment with control strategies in a flexible and modular environment.  
 
