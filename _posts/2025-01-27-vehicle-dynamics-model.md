@@ -11,12 +11,12 @@ tags: [dynamics,control,vehicle,motor]
 ## Introduction  
 Vehicle dynamics and control is a fascinating field that blends physics, engineering, and technology to understand how vehicles move and respond to forces. While it can seem complex at first, breaking it down into manageable concepts is key to advancing modern transportation, especially in the development of electric and autonomous vehicles. To make this learning process more accessible, I’ve built a MATLAB/Simulink model that simulates both longitudinal and lateral vehicle dynamics. This tool is designed to help students, researchers, and engineers experiment with control strategies in a flexible and modular environment.  
 
-<img src="/assets/img/vehicle-dynamics-model/lonlat2.png" alt="Vehicle Dynamics" width="100">
+<img src="/assets/img/vehicle-dynamics-model/LateralController3D.gif" alt="Vehicle Dynamics" width="500">
 
 ## What is the Vehicle Dynamics Simulation Model?  
 This simulation model is a practical tool for exploring and analyzing vehicle behavior under different conditions. It’s particularly useful for those interested in sustainable transportation, as it incorporates electric motors as primary actuators. Whether you’re a student learning the basics or a researcher testing advanced control strategies, this model provides a hands-on way to engage with vehicle dynamics.  
 
-
+<img src="/assets/img/vehicle-dynamics-model/lonlat2.png" alt="Vehicle Dynamics" width="500">
 
 ### Key Features of the Model  
 - **Longitudinal Dynamics:** Simulates acceleration, braking, and traction forces.  
@@ -24,7 +24,8 @@ This simulation model is a practical tool for exploring and analyzing vehicle be
 - **Electric Motor Integration:** Models vehicle actuation using BLDC and DC motors.  
 - **Waypoint-Based Navigation:** Implements a method commonly used in autonomous vehicle path planning.  
 
-
+<img src="/assets/img/vehicle-dynamics-model/ErrorsComparison.png" alt="Dynamics visualization" width="500">
+<img src="/assets/img/vehicle-dynamics-model/motor1.png" alt="Electric motors" width="500">
 
 ## Why This Model Matters  
 The automotive industry is evolving rapidly, with a strong focus on electric and autonomous vehicles. To develop energy-efficient powertrains, advanced driver-assistance systems (ADAS), and reliable self-driving algorithms, a solid understanding of vehicle dynamics is essential. This Simulink model offers a safe and practical way to test control strategies in a simulated environment before applying them to real-world systems.  
