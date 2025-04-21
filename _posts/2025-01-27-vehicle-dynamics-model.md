@@ -1,6 +1,6 @@
 ---
 title: Vehicle Dynamics and Control Simulation Playground
-date: 2025-01-27 12:00:00
+date: 2025-01-27 12:00:01
 categories: [dynamics,simulation]
 tags: [dynamics,control,vehicle,motor]
 
