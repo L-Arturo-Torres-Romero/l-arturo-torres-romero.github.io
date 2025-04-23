@@ -39,5 +39,5 @@ This project is open-source and collaborative, and I’d love for others to cont
 
 **The future of mobility is electric and autonomous—let’s explore it together!**  
 
-For more details and to access the model, visit our GitHub repository: **[GitHub Link](https://github.com/L-Arturo-Torres-Romero/VehicleModel)**
+For more details and to access the model, visit our GitHub repository: **[GitHub Link](https://github.com/L-Arturo-Torres-Romero/VehicleModel)** or click here to open it: [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=L-Arturo-Torres-Romero/VehicleModel&file=https://github.com/L-Arturo-Torres-Romero/VehicleModel/blob/master/VehicleModel/LongLatDriveline.slx)
 
