@@ -4,7 +4,8 @@ title: Applying software automotive engineering practices beyond the automotive 
 date: 2026-03-01 12:00:01
 categories: [Automotive, Safety]
 tags: [Automotive, Safety, AI]
-------------------------------
+
+---
 
 The automotive industry has developed rigorous approaches for dealing with safety in increasingly complex software-driven systems. Standards such as **ISO 26262** and **ISO 21448 (SOTIF)** provide structured methods for identifying risks, analyzing system limitations, and systematically validating intended behavior.
 
