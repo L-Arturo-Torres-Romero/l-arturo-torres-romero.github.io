@@ -7,7 +7,7 @@ A little about me:
 
 I am a passionate technologist with a deep love for innovation and problem-solving. Since graduating with a degree in Communications and Electronics, I have been captivated by the intersection of electrical engineering and software development. Since 2012, I have dedicated my career to automotive embedded systems, designing and implementing cutting-edge technologies for vehicles.
 
-With the rise of artificial intelligence, I am now exploring ways to integrate AI into mobility solutions, pushing the boundaries of what’s possible in autonomous and electric vehicles. I am currently completing my Ph.D. in Engineering Sciences at the Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO), where my research focuses on control systems for autonomous and electric vehicles. My work aims to contribute to the future of smart, sustainable transportation.
+With the rise of artificial intelligence, I am now exploring ways to integrate AI into mobility solutions, pushing the boundaries of what’s possible in autonomous and electric vehicles. I obtained my Ph.D. in Engineering Sciences at the Instituto Tecnológico y de Estudios Superiores de Occidente (ITESO), where my research focuses on control systems for autonomous and electric vehicles. My work aims to contribute to the future of smart, sustainable transportation.
 
 you can find more about me in
 [Linkedin](https://www.linkedin.com/in/luisarturotorres)
@@ -37,5 +37,9 @@ L. A. Torres-Romero, L. E. González-Jiménez, and R. Ruiz-Cruz, “Introduction
 L. A. Torres-Romero, L. E. González-Jiménez, and R. Ruiz-Cruz, “A brief review on industrial standards and procedures for safety related automotive systems,” *Internal Report PhDEngScITESO-18-35-R*, ITESO, Tlaquepaque, Mexico, Dec. 2018.
 
 ## Publications in journals
+
+L. A. Torres-Romero and L. E. González-Jiménez, "A Comparison of Sliding Mode Controllers for the Lateral Dynamics of an Electric Autonomous Vehicle," *2025 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC)*, Ixtapa, Mexico, 2025, pp. 1–6. [doi: 10.1109/ROPEC68163.2025.11354035](https://doi.org/10.1109/ROPEC68163.2025.11354035).
+
+L. A. Torres-Romero and L. E. González-Jiménez, "A Block Controller with Integral Super-Twisting Algorithm for the Path Following of a Self-Driving Electric Vehicle Considering Actuator Dynamics," *World Electric Vehicle Journal*, vol. 16, no. 12, Art. no. 643, 2025. [doi: 10.3390/wevj16120643](https://doi.org/10.3390/wevj16120643).
 
 L. A. Torres-Romero, R. Ruiz-Cruz, and L. E. González-Jiménez, "Path-following sliding mode controller for an electric vehicle considering actuator dynamics," *Machines*, vol. 12, no. 4, p. 219, 2024. doi: [10.3390/machines12040219](https://doi.org/10.3390/machines12040219).
