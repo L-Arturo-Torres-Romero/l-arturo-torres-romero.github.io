@@ -7,6 +7,7 @@ tags: [Automotive, Safety, AI]
 
 ---
 
+##
 The automotive industry has developed rigorous approaches for dealing with safety in increasingly complex software-driven systems. Standards such as **ISO 26262** and **ISO 21448 (SOTIF)** provide structured methods for identifying risks, analyzing system limitations, and systematically validating intended behavior.
 
 In this article, I explore how these practices can be applied beyond the automotive domain. In particular, I discuss **Hazard Identification and Risk Evaluation (HIRE)**, a technique used within SOTIF to identify potentially hazardous scenarios, evaluate their consequences, and define appropriate mitigation and verification measures.
